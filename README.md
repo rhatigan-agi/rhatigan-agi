@@ -1,16 +1,34 @@
-## Hi there 👋
+# Jeff Rhatigan
 
-<!--
-**rhatigan-agi/rhatigan-agi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **Rhatigan Labs** — building architecture-first AI systems and research infrastructure.
 
-Here are some ideas to get you started:
+My work focuses on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- governed AI systems
+- deterministic AI-assisted software development
+- AI-assisted scientific discovery
+- compiler-style control of AI systems
+
+## Research
+
+Recent work applying AI-assisted computational analysis to cancer biology:
+
+- **SLC2A8 AKT sensitivity biomarker**  
+  Computational analysis of DepMap/PRISM identifying a metabolic subtype of KRAS-mutant cancers sensitive to AKT inhibitors.
+
+## Projects
+
+### Archon
+Reference implementation of the **Anvil specification** — compiler-grade governance for AI-assisted development.
+
+### Anvil
+A specification for **deterministic AI-assisted software development**, treating AI as an untrusted compiler component.
+
+## Organization
+
+Rhatigan Labs develops AI-assisted research and engineering systems integrating:
+
+- multi-agent LLM orchestration
+- long-horizon memory
+- hypothesis generation pipelines
+- structured verification against source data
