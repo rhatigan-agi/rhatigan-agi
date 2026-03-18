@@ -18,11 +18,17 @@ Recent work applying AI-assisted computational analysis to cancer biology:
 
 ## Projects
 
-### Archon
-Reference implementation of the **Anvil specification** — compiler-grade governance for AI-assisted development.
+### loom-code
+Persistent memory and self-evolving directives for AI coding agents.
+A system that transforms stateless coding assistants into continuously improving collaborators by introducing:
+- persistent, local-first memory across sessions
+- evolving coding directives derived from real usage
+- a reflection pipeline that synthesizes patterns and proposes improvements
 
-### Anvil
-A specification for **deterministic AI-assisted software development**, treating AI as an untrusted compiler component.
+Core ideas:
+- sessions are remembered
+- mistakes become directives
+- the assistant improves over time
 
 ## Organization
 
