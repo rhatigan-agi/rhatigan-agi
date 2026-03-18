@@ -18,7 +18,8 @@ Recent work applying AI-assisted computational analysis to cancer biology:
 
 ## Projects
 
-### loom-code (https://github.com/rhatigan-agi/loom-code)
+### loom-code
+Link: https://github.com/rhatigan-agi/loom-code
 Persistent memory and self-evolving directives for AI coding agents.
 A system that transforms stateless coding assistants into continuously improving collaborators by introducing:
 - persistent, local-first memory across sessions
