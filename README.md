@@ -25,6 +25,9 @@ A system that transforms stateless coding assistants into continuously improving
 - evolving coding directives derived from real usage
 - a reflection pipeline that synthesizes patterns and proposes improvements
 
+### AI Cheat Sheet
+Link: https://rhatigan-agi.github.io/ai-coding-cheatsheet/
+
 Core ideas:
 - sessions are remembered
 - mistakes become directives
