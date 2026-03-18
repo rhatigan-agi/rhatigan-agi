@@ -13,12 +13,12 @@ My work focuses on:
 
 Recent work applying AI-assisted computational analysis to cancer biology:
 
-- **SLC2A8 AKT sensitivity biomarker**  
+- **SLC2A8 AKT sensitivity biomarker**  (https://github.com/rhatigan-agi/slc2a8-akt-sensitivity-kras)
   Computational analysis of DepMap/PRISM identifying a metabolic subtype of KRAS-mutant cancers sensitive to AKT inhibitors.
 
 ## Projects
 
-### loom-code
+### loom-code (https://github.com/rhatigan-agi/loom-code)
 Persistent memory and self-evolving directives for AI coding agents.
 A system that transforms stateless coding assistants into continuously improving collaborators by introducing:
 - persistent, local-first memory across sessions
