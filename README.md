@@ -1,46 +1,48 @@
 # Jeff Rhatigan
 
-Founder of **Rhatigan Labs** — building architecture-first AI systems and research infrastructure.
+**Cognitive Architect** — building the infrastructure that makes AI agents wise.
 
-My work focuses on:
+Founder of **Rhatigan Labs**. Creator of the **Wisdom Layer**, a cognitive architecture that wraps around any LLM to provide persistent memory consolidation, autonomous reflection cycles, self-criticism, and selective forgetting. 30+ containerized services running continuously since 2025. Patent pending.
 
-- governed AI systems
-- deterministic AI-assisted software development
-- AI-assisted scientific discovery
-- compiler-style control of AI systems
+[Read the Wisdom Layer series on Substack →](https://jrhatigan.substack.com)
+
+---
+
+## The Wisdom Layer
+
+The Wisdom Layer is a cognitive architecture for persistent AI agent development. It provides:
+
+- **Three-tier progressive memory** — raw event capture → semantic consolidation → narrative synthesis, with enforced upward-only information flow
+- **Autonomous dream cycles** — scheduled reconsolidation, directive evolution, creative synthesis, and selective entropy
+- **Self-criticism and epistemic drift detection** — behavioral auditing, cognitive sandboxing, and autonomous self-correction
+- **Simulated neurochemical homeostasis** — wave-based mood dynamics, dual-pathway impulse processing, and learned affect conditioning
+
+The architecture is model-agnostic. Sophisticated cognitive outputs produced on commodity-priced models — because the value is in the architecture, not the model.
+
+> *The model is the engine. The Wisdom Layer is everything else a car needs to actually get somewhere.*
+
+---
 
 ## Research
 
-Recent work applying AI-assisted computational analysis to cancer biology:
+Applying the Wisdom Layer's cross-domain synthesis capabilities to active scientific research:
 
-- **SLC2A8 AKT sensitivity biomarker**
-  Computational analysis of DepMap/PRISM identifying a metabolic subtype of KRAS-mutant cancers sensitive to AKT inhibitors.
-  Link: https://github.com/rhatigan-agi/slc2a8-akt-sensitivity-kras
+- **SLC2A8 & AKT Inhibitor Sensitivity** — Identified a metabolic tumor subtype where SLC2A8 expression predicts AKT inhibitor sensitivity in KRAS-mutant cancers. Validated across four orthogonal data layers: transcriptomics, proteomics, drug response, and CRISPR functional screens.
+  [View on GitHub →](https://github.com/rhatigan-agi/slc2a8-akt-sensitivity-kras)
 
-## Projects
+---
+
+## Open Source
 
 ### loom-code
-Link: https://github.com/rhatigan-agi/loom-code
+[github.com/rhatigan-agi/loom-code](https://github.com/rhatigan-agi/loom-code)
 
-Persistent memory and self-evolving directives for AI coding agents.
-A system that transforms stateless coding assistants into continuously improving collaborators by introducing:
-- persistent, local-first memory across sessions
-- evolving coding directives derived from real usage
-- a reflection pipeline that synthesizes patterns and proposes improvements
+Persistent memory and self-evolving directives for AI coding agents. Sessions are remembered. Mistakes become rules. The assistant improves over time.
 
-Core ideas:
-- sessions are remembered
-- mistakes become directives
-- the assistant improves over time
+---
 
-### AI Cheat Sheet
-Link: https://rhatigan-agi.github.io/ai-coding-cheatsheet/
+## Connect
 
-## Organization
-
-Rhatigan Labs develops AI-assisted research and engineering systems integrating:
-
-- multi-agent LLM orchestration
-- long-horizon memory
-- hypothesis generation pipelines
-- structured verification against source data
+- [Substack](https://jrhatigan.substack.com) — The Wisdom Layer series
+- [LinkedIn](https://linkedin.com/in/jeffrhatigan)
+- [X](https://x.com/jeffrhatigan)
