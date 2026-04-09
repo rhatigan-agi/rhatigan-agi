@@ -32,15 +32,6 @@ Applying the Wisdom Layer's cross-domain synthesis capabilities to active scient
 
 ---
 
-## Open Source
-
-### loom-code
-[github.com/rhatigan-agi/loom-code](https://github.com/rhatigan-agi/loom-code)
-
-Persistent memory and self-evolving directives for AI coding agents. Sessions are remembered. Mistakes become rules. The assistant improves over time.
-
----
-
 ## Connect
 
 - [Substack](https://jrhatigan.substack.com) — The Wisdom Layer series
