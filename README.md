@@ -12,7 +12,7 @@ Extracted from 6+ months of continuous research across 7 persistent agents. Now 
 
 ## The Wisdom Layer SDK
 
-`pip install wisdom-layer`
+⬇️ `pip install wisdom-layer`
 
 The Wisdom Layer is a cognitive architecture for persistent AI agents. It provides:
 
