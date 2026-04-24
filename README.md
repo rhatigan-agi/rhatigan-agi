@@ -25,7 +25,7 @@ Model-agnostic by design. Early benchmark: fabrication rate dropped from 22% to 
 
 > *The model is the engine. The Wisdom Layer is everything else a car needs to actually get somewhere.*
 
-**Links:** [wisdomlayer.ai](https://wisdomlayer.ai) · [GitHub repo](https://github.com/rhatiganlabs/wisdom-layer) · [Substack series](https://jrhatigan.substack.com)
+**Links:** [wisdomlayer.ai](https://wisdomlayer.ai) · [GitHub repo](https://github.com/rhatigan-ago/wisdom-layer) · [Substack series](https://jrhatigan.substack.com)
 
 ---
 
